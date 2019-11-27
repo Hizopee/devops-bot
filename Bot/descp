@@ -1,0 +1,5 @@
+# 
+# Bot envoi des liens trello & questionnaire
+# Sans commandes
+# CRON : Lien trello 9h & Lien questionnaire 16h30
+# 
